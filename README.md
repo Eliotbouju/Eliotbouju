@@ -1,4 +1,7 @@
 ### Hi there 👋
+  
+[voici mon magnifique cv](https://github.com/Eliotbouju/Eliotbouju/blob/main/CV%202020%20DC-%202.pdf)
+
 
 <!--
 **Eliotbouju/Eliotbouju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
