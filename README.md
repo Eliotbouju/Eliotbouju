@@ -2,7 +2,7 @@
   
 [voici mon magnifique cv](https://github.com/Eliotbouju/Eliotbouju/blob/main/CV%202020%20DC-%202.pdf)
 
-
+[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png]
 <!--
 **Eliotbouju/Eliotbouju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
